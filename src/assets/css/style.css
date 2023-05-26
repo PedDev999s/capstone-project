@@ -1,0 +1,30 @@
+
+html {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    width: 100%;
+}
+
+h1{text-align: center;}
+h2{text-align: center;
+    box-shadow: 8px 8px 5vmax #444;
+    border: 1px solid #333;
+    }
+
+h3{
+    text-align: center;
+    text-size-adjust:initial;
+    border: 1px solid;
+    border-color:darkgray;
+
+}
+
+.academic {
+text-align: center;
+
+}
+
+.graduações {
+    border-bottom: #444;
+    
+}
