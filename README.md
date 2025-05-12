@@ -1,6 +1,6 @@
 # 🧠 Capstone-project
-Este repositório contém meu projeto capstone desenvolvido como parte do desenvolvimento pessoal para apresentaçâo pessoal.
-O objetivo foi aplicar os conhecimentos adquiridos em [tecnologias ou conceitos específicos] para criar uma solução que [descreve e apresenta telas responsivas ou intuitivas para breve portfólio pessoal.].:contentReference[oaicite:4]{index=4}
+<p>Este repositório contém meu projeto capstone desenvolvido como parte do desenvolvimento pessoal para apresentaçâo pessoal.</p>
+<p>O objetivo foi aplicar os conhecimentos adquiridos em [tecnologias ou conceitos específicos] para criar uma solução que [descreve e apresenta telas responsivas ou intuitivas para breve portfólio pessoal.].:contentReference[oaicite:4]{index=4}</p>
 
 📦 <h1>Entregáveis</h1>
 <p>Um arquivo HTML para a estrutura do site.</p>
