@@ -32,7 +32,7 @@ Se precisar de assistência adicional ou ajustes específicos, estou à disposi�
 ## 📬 Contato
 
 <p> - [LinkedIn](https://www.linkedin.com/in/pedrohfa) </p>
-<p> - [Email](mailto:pedroamorimdev@gmail.comm) </p>
+<p> - [Email](pedroamorimdev@gmail.com) </p>
 
 ### 
 
